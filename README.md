@@ -9,11 +9,6 @@
   - **Add**: Add new employee data.
   - **Display**: View a formatted list of all employees in a clean, tabular format.
   - **Delete**: Remove an employee record by `EmployeeID`.
-- **Validation**: 
-  - Prevents adding duplicate `EmployeeID`.
-  - Handles null and invalid inputs for employee fields.
-  - Date validation ensures correct `BirthDate` entry.
-- **Error Handling**: Graceful error messages for invalid operations, like deleting non-existent employees.
 
 ## Technology Stack
 - **Language**: C#
@@ -49,8 +44,14 @@ EmployeeInMemoryCRUD/
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/EmployeeInMemoryCRUD.git
-2. **Open With Visual Studio Code 2022**
-	- Click icon start
+2. **Open the Project in Visual Studio 2022**:
+- Open Visual Studio 2022.
+- Click on File > Open > Project/Solution....
+- Navigate to the folder where you cloned the repository and open the .sln (solution) file.
+
+3. Run the Application:
+- Click on the `Start` button (or press `F5`).
+- The console window will open, and the application will run, showing hardcoded employee data and performing operations like adding and deleting employees.
 
 
 ### Explanation:
