@@ -58,9 +58,5 @@ EmployeeInMemoryCRUD/
 2. **Features**: Highlights key functionality.
 3. **Technology Stack**: Lists technologies used.
 4. **Application Structure**: Explains how the project is organized.
-5. **How to Run the Application**: Simple instructions to build and run the project.
-6. **Usage**: Describes what happens when the app runs, with sample output.
-7. **Future Enhancements**: Ideas for future improvements.
-8. **License**: Licensing information (adjust if you have a different license).
 
 
