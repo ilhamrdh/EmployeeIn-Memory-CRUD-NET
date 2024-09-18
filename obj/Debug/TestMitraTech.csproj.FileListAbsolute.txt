@@ -1,0 +1,7 @@
+D:\.NET\TestMitraTech\TestMitraTech\bin\Debug\TestMitraTech.exe.config
+D:\.NET\TestMitraTech\TestMitraTech\bin\Debug\TestMitraTech.exe
+D:\.NET\TestMitraTech\TestMitraTech\bin\Debug\TestMitraTech.pdb
+D:\.NET\TestMitraTech\TestMitraTech\obj\Debug\TestMitraTech.csproj.AssemblyReference.cache
+D:\.NET\TestMitraTech\TestMitraTech\obj\Debug\TestMitraTech.csproj.CoreCompileInputs.cache
+D:\.NET\TestMitraTech\TestMitraTech\obj\Debug\TestMitraTech.exe
+D:\.NET\TestMitraTech\TestMitraTech\obj\Debug\TestMitraTech.pdb
