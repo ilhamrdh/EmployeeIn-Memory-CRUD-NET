@@ -31,13 +31,13 @@ The project follows a modular structure to maintain clean code practices and sep
 ```bash
 EmployeeInMemoryCRUD/
 ├── Models/
-│   └── Employee.cs          # Employee model definition
+│   └── Employee.cs         
 ├── Interfaces/
-│   └── IEmployeeOperations.cs # Interface for CRUD operations
+│   └── IEmployeeOperations.cs
 ├── Services/
-│   └── EmployeeManager.cs   # CRUD operations implementation
-└── Program.cs               # Main application entry point
-
+│   └── EmployeeManager.cs   
+└── Program.cs               
+```
 
 
 ## How to Run the Application
